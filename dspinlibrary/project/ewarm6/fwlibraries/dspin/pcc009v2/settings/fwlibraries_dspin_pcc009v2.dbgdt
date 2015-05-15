@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1221</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>915</ColumnWidth1>
+        <ColumnWidth2>244</ColumnWidth2>
+        <ColumnWidth3>61</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>323</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory><item>0x20000459</item></DisasmHistory>
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+      <Find-in-Files>
+        
+        
+        
+      <ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files>
+    <QuickWatch><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>100</item></col-widths><QWatchHistory/><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></QuickWatch><WATCH_1><expressions><item>arrayTxBytes[0]</item><item>arrayTxBytes[1]</item><item>arrayTxValues[0]</item><item>arrayTxValues[1]</item><item>spiTxBursts[0][0]</item><item>spiTxBursts[1][0]</item><item>spiTxBursts[2][0]</item><item>spiTxBursts[3][0]</item><item>spiTxBursts[0][1]</item><item>spiTxBursts[1][1]</item><item>spiTxBursts[2][1]</item><item>spiRxBursts[3][1]</item><item>spiRxBursts[0][0]</item><item>spiRxBursts[1][0]</item><item>spiRxBursts[2][0]</item><item>spiRxBursts[3][0]</item><item>spiRxBursts[0][1]</item><item>spiRxBursts[1][1]</item><item>spiRxBursts[2][1]</item><item>spiRxBursts[3][1]</item><item>pTxByte[0]</item><item>pTxByte[1]</item><item>pTxByte[2]</item><item>pTxByte[3]</item><item>pTxByte[4]</item><item>*pV</item><item>i</item><item>*pValue</item><item>nBytes</item><item>byte2</item><item>byte1</item><item>spiRxBursts[i][2]</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>157</item><item>150</item><item>100</item><item>166</item></col-widths><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>WATCH_2</Factory></Window></Windows></PreferedWindows></WATCH_1><WATCH_2><expressions><item>dSPIN_rx_data</item><item>dSPIN_RegsStruct-&gt;MAX_SPEED</item><item>dSPIN_Stall_Th</item><item>dSPIN_Status</item><item>StallTh_to_Par(dSPIN_CONF_PARAM_STALL_TH_MAX)</item><item>StallTh_to_Par(Ichk)</item><item>*pOpenA</item><item>*pOpenB</item><item>responseArray</item><item>dSPIN_RegsStructArray[0]</item><item>rspArray</item><item>dSPIN_rx_data</item><item>dSPIN_RegsStructArray[0].MAX_SPEED</item><item>Speed_Steps_to_Par(dSPIN_CONF_PARAM_MAX_SPEED&gt;&gt;1)</item><item>speed</item><item>(RCC_Clocks.SYSCLK_Frequency/1000000)-1</item><item>nCount</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>216</item><item>112</item><item>100</item><item>161</item></col-widths><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>WATCH_1</Factory></Window></Windows></PreferedWindows></WATCH_2><PROJECT_GUI_CALL_GRAPH><col-names><item>File</item><item>Function</item><item>Line</item></col-names><col-widths><item>200</item><item>700</item><item>100</item></col-widths></PROJECT_GUI_CALL_GRAPH></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-14592-9008</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-14069-9018</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-22685-10494</Identity>
+            <TabName>Find in Files</TabName>
+            <Factory>Find-in-Files</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-25340-9011</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws&gt;</ExpandedNode><ExpandedNode>fwlibraries_dspin_pcc009v2</ExpandedNode><ExpandedNode>fwlibraries_dspin_pcc009v2/Output</ExpandedNode><ExpandedNode>fwlibraries_dspin_pcc009v2/stm32f10x</ExpandedNode><ExpandedNode>fwlibraries_dspin_pcc009v2/stm32f10x/StdPeriph_Driver</ExpandedNode><ExpandedNode>fwlibraries_dspin_pcc009v2/user</ExpandedNode><ExpandedNode>fwlibraries_dspin_pcc009v2/user/dspin</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd4><Tabs><Tab><Identity>TabID-7280-12329</Identity><TabName>Call Graph</TabName><Factory>PROJECT_GUI_CALL_GRAPH</Factory></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd4><Wnd5><Tabs><Tab><Identity>TabID-13846-12411</Identity><TabName>Disassembly</TabName><Factory>Disassembly</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\dspin\inc\stm32f10x_it.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>17</YPos2><SelStart2>2198</SelStart2><SelEnd2>2198</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\dspin\inc\main.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>1238</SelStart2><SelEnd2>1238</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\dspin\inc\dspin_config.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>42</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\init\src\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>212</YPos2><SelStart2>6718</SelStart2><SelEnd2>6718</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\dspin\src\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>109</YPos2><SelStart2>4950</SelStart2><SelEnd2>4950</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\dspin\src\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>201</YPos2><SelStart2>5936</SelStart2><SelEnd2>5936</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\dspin\inc\dspin.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>143</YPos2><SelStart2>5363</SelStart2><SelEnd2>5363</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\stm32f10x\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>245</YPos2><SelStart2>8124</SelStart2><SelEnd2>8124</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\dspin\src\dspin.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>173</YPos2><SelStart2>8663</SelStart2><SelEnd2>8663</SelEnd2></Tab><ActiveTab>8</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\stm32f10x\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>2033</YPos2><SelStart2>105771</SelStart2><SelEnd2>105771</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\stm32f10x\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>488</YPos2><SelStart2>20976</SelStart2><SelEnd2>20976</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-011a0290><key>iaridepm.enu1</key></Toolbar-011a0290></Sizes></Row0><Row1><Sizes><Toolbar-13d78dd0><key>debuggergui.enu1</key></Toolbar-13d78dd0></Sizes></Row1></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>420</Bottom><Right>414</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>125000</sizeHorzCX><sizeHorzCY>244499</sizeHorzCY><sizeVertCX>260000</sizeVertCX><sizeVertCY>515892</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>420</Bottom><Right>293</Right><x>-2</x><y>-2</y><xscreen>250</xscreen><yscreen>167</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>204156</sizeHorzCY><sizeVertCX>184375</sizeVertCX><sizeVertCY>515892</sizeVertCY></Rect></Wnd5></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>230</Bottom><Right>1602</Right><x>-2</x><y>-2</y><xscreen>1604</xscreen><yscreen>232</yscreen><sizeHorzCX>1002500</sizeHorzCX><sizeHorzCY>283619</sizeHorzCY><sizeVertCX>125000</sizeVertCX><sizeVertCY>244499</sizeVertCY></Rect></Wnd0></Sizes></Row0><Row1><Sizes><Wnd4><Rect><Top>228</Top><Left>-2</Left><Bottom>329</Bottom><Right>1602</Right><x>-2</x><y>228</y><xscreen>1604</xscreen><yscreen>101</yscreen><sizeHorzCX>1002500</sizeHorzCX><sizeHorzCY>123472</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>204156</sizeVertCY></Rect></Wnd4></Sizes></Row1></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\discoverykit\fwlibraries_dspin_discoverykit.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\pcc009v2\fwlibraries_dspin_pcc009v2.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1541</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1155</ColumnWidth1><ColumnWidth2>308</ColumnWidth2><ColumnWidth3>77</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>269</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>688</item><item>20</item></col-widths>
+        <DisasmHistory><item>0x080037e1</item></DisasmHistory>
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+      <Find-in-Files>
+        
+        
+        
+      <ColumnWidth0>552</ColumnWidth0><ColumnWidth1>78</ColumnWidth1><ColumnWidth2>946</ColumnWidth2></Find-in-Files>
+      <WATCH_1>
+        <expressions>
+          
+          
+          
+        <item>currentmode</item><item>currentpin</item><item>GPIO_PortSource</item><item>GPIO_PinSource</item><item>GPIO_PinSource &gt;&gt; 0x02</item><item>AFIO-&gt;EXTICR[2]</item><item>(((uint32_t)GPIO_PortSource) &lt;&lt; (0x04 * (GPIO_PinSource &amp; (uint8_t)0x03)))</item><item>tmp</item><item>i</item><item>dSPIN_Status</item><item>dSPIN_Stall_Th</item><item>dSPIN_rx_data</item><item>value</item><item>stall_open_value</item><item>registers[0]</item><item>registers[1]</item><item>registers[2]</item><item>RCC_ClockFreq.SYSCLK_Frequency</item><item>RCC_ClockFreq.HCLK_Frequency</item><item>RCC_ClockFreq.PCLK1_Frequency</item><item>RCC_ClockFreq.PCLK2_Frequency</item><item>RCC_ClockFreq.ADCCLK_Frequency</item><item>result</item><item/></expressions>
+        <col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>180</item><item>150</item><item>100</item><item>216</item></col-widths>
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></WATCH_1>
+    <Memory><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Memory</Factory></Window></Windows></PreferedWindows><FindDirection>1</FindDirection><FindAsHex>0</FindAsHex></Memory><Register><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Register><SymbolicMemory><PreferedWindows><Position>0</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><zone>Memory</zone><col-names><item>Data</item><item>Location</item><item>Type</item><item>Value</item><item>Variable</item></col-names><col-widths><item>100</item><item>100</item><item>100</item><item>100</item><item>100</item></col-widths><SymMemHistory/></SymbolicMemory><TerminalIO><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><InputSource>1</InputSource><InputMode>10</InputMode><Filename>$PROJ_DIR$\TermIOInput.txt</Filename><InputEcho>1</InputEcho><ShowReset>0</ShowReset></TerminalIO><SYMLIST><PreferedWindows><Position>1</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></SYMLIST><Breakpoints><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>PHYSBPWIN</Factory></Window></Windows></PreferedWindows><col-names><item>Breakpoint</item><item>_I0</item></col-names><col-widths><item>500</item><item>35</item></col-widths></Breakpoints><Extra-Trace><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><col-names><item>Comment</item><item>Cycles</item><item>Event</item><item>Index</item><item>SWO Packet</item><item>Trace</item><item>Value</item></col-names><col-widths><item>400</item><item>100</item><item>200</item><item>70</item><item>100</item><item>300</item><item>100</item></col-widths></Extra-Trace><DRIVER_DATA_LOG><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><col-names><item>Program Counter</item><item>Time</item></col-names><col-widths><item>130</item><item>180</item></col-widths></DRIVER_DATA_LOG><PHYSBPWIN><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Breakpoints</Factory></Window></Windows></PreferedWindows><col-names><item>#</item><item>Breakpoint</item></col-names><col-widths><item>60</item><item>729</item></col-widths></PHYSBPWIN><DRIVER_CUSTOM_SFR><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><col-names><item>Access</item><item>Address</item><item>Name</item><item>Size</item><item>Zone</item><item>_I0</item></col-names><col-widths><item>120</item><item>150</item><item>150</item><item>50</item><item>120</item><item>20</item></col-widths></DRIVER_CUSTOM_SFR><DRIVER_TIMELINE_GRAPH><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></DRIVER_TIMELINE_GRAPH></Static>
+    <Windows>
+      
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          
+          
+          <Tab>
+            <Identity>TabID-2293-3422</Identity>
+            <TabName>Find in Files</TabName>
+            <Factory>Find-in-Files</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-31133-3279</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-19722-8796</Identity><TabName>Terminal I/O</TabName><Factory>TerminalIO</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd0><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-31983-16189</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws&gt;</ExpandedNode><ExpandedNode>fwlibraries_dspin_discoverykit</ExpandedNode><ExpandedNode>fwlibraries_dspin_discoverykit/stm32f10x</ExpandedNode><ExpandedNode>fwlibraries_dspin_discoverykit/stm32f10x/CMSIS</ExpandedNode><ExpandedNode>fwlibraries_dspin_discoverykit/stm32f10x/StdPeriph_Driver</ExpandedNode><ExpandedNode>fwlibraries_dspin_discoverykit/user</ExpandedNode><ExpandedNode>fwlibraries_dspin_discoverykit/user/dspin</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3><Wnd4><Tabs><Tab><Identity>TabID-1728-10458</Identity><TabName>Watch 1</TabName><Factory>WATCH_1</Factory></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd4></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane/><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00cc0290><key>iaridepm.enu1</key></Toolbar-00cc0290></Sizes></Row0><Row1><Sizes><Toolbar-17c9e620><key>debuggergui.enu1</key></Toolbar-17c9e620></Sizes></Row1><Row2><Sizes><Toolbar-17c9e6e8><key>armstlink.enu1</key></Toolbar-17c9e6e8></Sizes></Row2></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>542</Bottom><Right>343</Right><x>-2</x><y>-2</y><xscreen>250</xscreen><yscreen>167</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>204156</sizeHorzCY><sizeVertCX>215625</sizeVertCX><sizeVertCY>665037</sizeVertCY></Rect></Wnd3></Sizes></Row0></Left><Right><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>542</Bottom><Right>368</Right><x>-2</x><y>-2</y><xscreen>250</xscreen><yscreen>167</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>204156</sizeHorzCY><sizeVertCX>231250</sizeVertCX><sizeVertCY>665037</sizeVertCY></Rect></Wnd4></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>183</Bottom><Right>1602</Right><x>-2</x><y>-2</y><xscreen>1604</xscreen><yscreen>185</yscreen><sizeHorzCX>1002500</sizeHorzCX><sizeHorzCY>226161</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>204156</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

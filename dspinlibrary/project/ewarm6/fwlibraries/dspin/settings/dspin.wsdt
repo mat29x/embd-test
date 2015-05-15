@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>fwlibraries_dspin_discoverykit/Debug</Project><Project>fwlibraries_dspin_pcc009v2/Debug</Project></CurrentConfigs><CurrentProj>fwlibraries_dspin_discoverykit</CurrentProj><OverviewSelected>0</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>377</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>798</ColumnWidth1><ColumnWidth2>213</ColumnWidth2><ColumnWidth3>53</ColumnWidth3></Build>
+    <TerminalIO/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1221</ColumnWidth1></Debug-Log><Breakpoints><col-names><item>Breakpoint</item><item>_I0</item></col-names><col-widths><item>500</item><item>35</item></col-widths><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Breakpoints><Find-in-Files><ColumnWidth0>552</ColumnWidth0><ColumnWidth1>78</ColumnWidth1><ColumnWidth2>946</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-21419-22364</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws&gt;</ExpandedNode><ExpandedNode>&lt;ws&gt;/fwlibraries_dspin_discoverykit</ExpandedNode><ExpandedNode>&lt;ws&gt;/fwlibraries_dspin_discoverykit/stm32f10x</ExpandedNode><ExpandedNode>&lt;ws&gt;/fwlibraries_dspin_discoverykit/stm32f10x/CMSIS</ExpandedNode><ExpandedNode>&lt;ws&gt;/fwlibraries_dspin_discoverykit/stm32f10x/StdPeriph_Driver</ExpandedNode><ExpandedNode>&lt;ws&gt;/fwlibraries_dspin_discoverykit/user</ExpandedNode><ExpandedNode>&lt;ws&gt;/fwlibraries_dspin_discoverykit/user/dspin</ExpandedNode><ExpandedNode>&lt;ws&gt;/fwlibraries_dspin_pcc009v2</ExpandedNode><ExpandedNode>&lt;ws&gt;/fwlibraries_dspin_pcc009v2/stm32f10x</ExpandedNode><ExpandedNode>fwlibraries_dspin_discoverykit</ExpandedNode><ExpandedNode>fwlibraries_dspin_discoverykit/user</ExpandedNode><ExpandedNode>fwlibraries_dspin_discoverykit/user/dspin</ExpandedNode><ExpandedNode>fwlibraries_dspin_pcc009v2</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-28341-23053</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-31344-9289</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-21766-24212</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-23649-12094</Identity><TabName>Breakpoints</TabName><Factory>Breakpoints</Factory></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\dspin\src\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>6179</SelStart2><SelEnd2>6179</SelEnd2></Tab><ActiveTab>0</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-026e0290><key>iaridepm.enu1</key></Toolbar-026e0290></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>459</Bottom><Right>451</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>125000</sizeHorzCX><sizeHorzCY>244499</sizeHorzCY><sizeVertCX>283125</sizeVertCX><sizeVertCY>563570</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>149</Bottom><Right>1602</Right><x>-2</x><y>-2</y><xscreen>1604</xscreen><yscreen>151</yscreen><sizeHorzCX>1002500</sizeHorzCX><sizeHorzCY>184597</sizeHorzCY><sizeVertCX>125000</sizeVertCX><sizeVertCY>244499</sizeVertCY></Rect></Wnd2></Sizes></Row0><Row1><Sizes><Wnd3><Rect><Top>147</Top><Left>-2</Left><Bottom>314</Bottom><Right>1602</Right><x>-2</x><y>147</y><xscreen>1604</xscreen><yscreen>167</yscreen><sizeHorzCX>1002500</sizeHorzCX><sizeHorzCY>204156</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>204156</sizeVertCY></Rect></Wnd3></Sizes></Row1></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
